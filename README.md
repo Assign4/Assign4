@@ -97,14 +97,6 @@ I build structured automation pipelines with layered test execution strategies:
 
 ---
 
-### 🏆 Recognitions & Certifications
-
-- Speaker – QA Talks UK & Europe Edition 2021  
-- QA Pillar of the Year – Global QA Summit  
-- Certified in Cypress and REST API with Django
-
----
-
 ### 🎓 Education
 
 **Sathyabama University**  
