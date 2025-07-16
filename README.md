@@ -93,7 +93,7 @@ I build structured automation pipelines with layered test execution strategies:
 ### 🌍 Open Source Contributions
 
 - 🔧 [PactumJS](https://github.com/pactumjs/pactum) – Contributed utility functions and custom matchers for robust API contract testing  
-- 📊 [Testbeats](https://github.com/srinivas1210/testbeats) – Added support for JUnit split-reporting and Slack integration for publishing test reports
+- 📊 [Testbeats](https://github.com/test-results-reporter/testbeats) – Added support for JUnit split-reporting and Slack integration for publishing test reports
 
 ---
 
