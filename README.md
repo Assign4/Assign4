@@ -92,8 +92,9 @@ I build structured automation pipelines with layered test execution strategies:
 
 ### 🌍 Open Source Contributions
 
-- 🔧 [PactumJS](https://github.com/pactumjs/pactum) – Contributed utility functions and custom matchers for robust API contract testing  
-- 📊 [Testbeats](https://github.com/test-results-reporter/testbeats) – Added support for JUnit split-reporting and Slack integration for publishing test reports
+- [PactumJS](https://github.com/pactumjs/pactum) – Contributed utility functions and custom matchers for robust API contract testing  
+- [Testbeats](https://github.com/test-results-reporter/testbeats) – Added support for JUnit split-reporting and Slack integration for publishing test reports
+- [mobile-wdio-kit](https://www.npmjs.com/package/mobile-wdio-kit) - CLI to scaffold a WebdriverIO + Appium mobile test project (Android/iOS, optional Cursor MCP wiring, Vitest, patch-package) and run doctor for an environment preflight.
 
 ---
 
