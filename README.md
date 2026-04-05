@@ -9,7 +9,7 @@
 
 ### 🔍 Summary
 
-I’m a Quality Engineering professional with 7+ years of experience in end-to-end test strategy, test automation, and scalable QA architecture. I specialize in building robust frameworks for API, web, and mobile apps, and have contributed to QA transformation at multiple product companies and startups.
+I’m a Quality Engineering professional with 9+ years of experience in end-to-end test strategy, test automation, and scalable QA architecture. I specialize in building robust frameworks for API, web, and mobile apps, and have contributed to QA transformation at multiple product companies and startups.
 
 ---
 
