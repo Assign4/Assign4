@@ -50,7 +50,7 @@ I’m a Quality Engineering professional with 9+ years of experience in end-to-e
 - Supported Execution Framework validations for parallel data processing
 
 #### 🔹 RudderStack (SDET)  
-*Oct 2023 – Present*
+*Oct 2023 – Jun 2025*
 
 - Implemented BDD-style test suites for APIs, SDKs, and UI using PactumJS, WebDriverIO, and Appium  
 - Created control plan test suites for:
